@@ -1,6 +1,7 @@
 <template>
 	<view style="margin: 40% 0 60% 0;">
 		<!-- 第一次本地的修改 -->
+		<!-- 第二次本地的修改，远程连接 -->
 		<u-notify ref="uNotify" message="Hi uView"></u-notify>
 		<view style="display: flex;flex-direction: column;align-items: center;margin-bottom: 5%;">
 			<u-avatar :src="avatarUrl" size="250rpx"></u-avatar>
